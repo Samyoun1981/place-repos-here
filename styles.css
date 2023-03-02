@@ -1,1 +1,24 @@
-/* Write your CSS here! */
+
+body {
+    font-size: large;
+    background-color: rgba(123, 235, 211, 0.941);
+    margin: 8px;
+    display: block;  
+    padding: 10px
+ }
+
+#mainHeading {
+    color: red;
+}
+
+ #testP {
+    color: green        
+ }
+
+.funParagraph {
+    color: green;
+}
+ 
+p {
+    color: black;
+}
